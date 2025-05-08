@@ -1,0 +1,26 @@
+{
+    "category": {
+        "name": "Categories",
+        "multiple": false,
+        "hierarchical": true,
+        "description": "Organize content into categories"
+    },
+    "tag": {
+        "name": "Tags",
+        "multiple": true,
+        "hierarchical": false,
+        "description": "Tag content with keywords"
+    },
+    "product_category": {
+        "name": "Product Categories",
+        "multiple": false,
+        "hierarchical": true,
+        "description": "Organize products into categories"
+    },
+    "product_tag": {
+        "name": "Product Tags",
+        "multiple": true,
+        "hierarchical": false,
+        "description": "Tag products with keywords"
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "category": [
+        {
+            "id": 1,
+            "name_en": "Tutorials",
+            "name_fr": "Tutoriels",
+            "slug_en": "tutorials",
+            "slug_fr": "tutoriels",
+            "description_en": "Step-by-step guides and tutorials",
+            "description_fr": "Guides et tutoriels étape par étape",
+            "parent": 0,
+            "count": 1
+        },
+        {
+            "id": 2,
+            "name_en": "Features",
+            "name_fr": "Fonctionnalités",
+            "slug_en": "features",
+            "slug_fr": "fonctionnalites",
+            "description_en": "Posts about CMS features",
+            "description_fr": "Articles sur les fonctionnalités du CMS",
+            "parent": 0,
+            "count": 1
+        },
+        {
+            "id": 3,
+            "name_en": "News",
+            "name_fr": "Actualités",
+            "slug_en": "news",
+            "slug_fr": "actualites",
+            "description_en": "Latest news and updates",
+            "description_fr": "Dernières nouvelles et mises à jour",
+            "parent": 0,
+            "count": 0
+        }
+    ],
+    "tag": [
+        {
+            "id": 1,
+            "name_en": "Getting Started",
+            "name_fr": "Démarrage",
+            "slug_en": "getting-started",
+            "slug_fr": "demarrage",
+            "description_en": "Posts for beginners",
+            "description_fr": "Articles pour débutants",
+            "parent": 0,
+            "count": 1
+        },
+        {
+            "id": 2,
+            "name_en": "Multilingual",
+            "name_fr": "Multilingue",
+            "slug_en": "multilingual",
+            "slug_fr": "multilingue",
+            "description_en": "Content about multilingual features",
+            "description_fr": "Contenu sur les fonctionnalités multilingues",
+            "parent": 0,
+            "count": 1
+        },
+        {
+            "id": 3,
+            "name_en": "Tips",
+            "name_fr": "Astuces",
+            "slug_en": "tips",
+            "slug_fr": "astuces",
+            "description_en": "Helpful tips and tricks",
+            "description_fr": "Conseils et astuces utiles",
+            "parent": 0,
+            "count": 2
+        }
+    ],
+    "product_category": [
+        {
+            "id": 1,
+            "name_en": "Software",
+            "name_fr": "Logiciels",
+            "slug_en": "software",
+            "slug_fr": "logiciels",
+            "description_en": "Software products",
+            "description_fr": "Produits logiciels",
+            "parent": 0,
+            "count": 0
+        },
+        {
+            "id": 2,
+            "name_en": "Services",
+            "name_fr": "Services",
+            "slug_en": "services",
+            "slug_fr": "services",
+            "description_en": "Service offerings",
+            "description_fr": "Offres de service",
+            "parent": 0,
+            "count": 0
+        }
+    ],
+    "product_tag": [
+        {
+            "id": 1,
+            "name_en": "Best Seller",
+            "name_fr": "Meilleures ventes",
+            "slug_en": "best-seller",
+            "slug_fr": "meilleures-ventes",
+            "description_en": "Our most popular products",
+            "description_fr": "Nos produits les plus populaires",
+            "parent": 0,
+            "count": 0
+        },
+        {
+            "id": 2,
+            "name_en": "New",
+            "name_fr": "Nouveau",
+            "slug_en": "new",
+            "slug_fr": "nouveau",
+            "description_en": "New products",
+            "description_fr": "Nouveaux produits",
+            "parent": 0,
+            "count": 0
+        }
+    ]
+}

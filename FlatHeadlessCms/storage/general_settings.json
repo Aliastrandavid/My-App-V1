@@ -1,0 +1,6 @@
+{
+    "site_title": "Flat Headless CMS",
+    "site_description": "A PHP-based flat headless CMS using JSON files for storage with multilingual support",
+    "default_language": "en",
+    "posts_per_page": 10
+}

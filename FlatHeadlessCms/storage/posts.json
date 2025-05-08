@@ -1,0 +1,66 @@
+{
+    "blog": [
+        {
+            "id": "post-1",
+            "slug": "getting-started-with-flat-cms",
+            "date": "2025-05-08",
+            "status": "published",
+            "featured_image": "681beeab538375921d3cf",
+            "title_en": "Getting Started with Flat CMS",
+            "content_en": "<h1>Getting Started with Flat CMS<\/h1><p>Welcome to our flat-file CMS! This system allows you to manage content without a traditional database. All data is stored in JSON files, making it lightweight and easy to deploy.<\/p><p>This post will guide you through the basic features and how to make the most of our system.<\/p><h2>Key Features<\/h2><ul><li>No database required<\/li><li>Multilingual content<\/li><li>Custom post types<\/li><li>Taxonomies for organization<\/li><li>User management<\/li><\/ul>",
+            "meta_title_en": "",
+            "meta_description_en": "",
+            "title_fr": "D\u00e9marrer avec Flat CMS",
+            "content_fr": "<h1>D\u00e9marrer avec Flat CMS<\/h1><p>Bienvenue dans notre CMS \u00e0 fichiers plats ! Ce syst\u00e8me vous permet de g\u00e9rer du contenu sans base de donn\u00e9es traditionnelle. Toutes les donn\u00e9es sont stock\u00e9es dans des fichiers JSON, ce qui le rend l\u00e9ger et facile \u00e0 d\u00e9ployer.<\/p><p>Cet article vous guidera \u00e0 travers les fonctionnalit\u00e9s de base et comment tirer le meilleur parti de notre syst\u00e8me.<\/p><h2>Fonctionnalit\u00e9s cl\u00e9s<\/h2><ul><li>Pas de base de donn\u00e9es requise<\/li><li>Contenu multilingue<\/li><li>Types de publication personnalis\u00e9s<\/li><li>Taxonomies pour l'organisation<\/li><li>Gestion des utilisateurs<\/li><\/ul>",
+            "meta_title_fr": "",
+            "meta_description_fr": "",
+            "tax_category": [
+                "1"
+            ],
+            "tax_tag": [
+                "1",
+                "3"
+            ]
+        },
+        {
+            "id": "post-2",
+            "slug": "working-with-multilingual-content",
+            "date": "2025-05-08",
+            "status": "published",
+            "featured_image": "681c002cbc617xyz123",
+            "title_en": "Working with Multilingual Content",
+            "content_en": "<h1>Working with Multilingual Content<\/h1><p>One of the most powerful features of our CMS is multilingual support. This allows you to create content in multiple languages and serve it to users based on their preferences.<\/p><p>In this post, we'll explore how to create, edit, and manage multilingual content effectively.<\/p><h2>Setting Up Languages<\/h2><p>The system supports as many languages as you need. Each language is identified by its ISO code (e.g., 'en' for English, 'fr' for French).<\/p>",
+            "meta_title_en": "",
+            "meta_description_en": "",
+            "title_fr": "Travailler avec du contenu multilingue",
+            "content_fr": "<h1>Travailler avec du contenu multilingue<\/h1><p>L'une des fonctionnalit\u00e9s les plus puissantes de notre CMS est le support multilingue. Cela vous permet de cr\u00e9er du contenu dans plusieurs langues et de le servir aux utilisateurs en fonction de leurs pr\u00e9f\u00e9rences.<\/p><p>Dans cet article, nous explorerons comment cr\u00e9er, \u00e9diter et g\u00e9rer efficacement du contenu multilingue.<\/p><h2>Configuration des langues<\/h2><p>Le syst\u00e8me prend en charge autant de langues que n\u00e9cessaire. Chaque langue est identifi\u00e9e par son code ISO (par exemple, 'en' pour l'anglais, 'fr' pour le fran\u00e7ais).<\/p>",
+            "meta_title_fr": "",
+            "meta_description_fr": "",
+            "tax_category": [
+                "2"
+            ],
+            "tax_tag": [
+                "2",
+                "3"
+            ]
+        }
+    ],
+    "page": [
+        {
+            "id": "page-1",
+            "post_type": "page",
+            "title_en": "Services",
+            "title_fr": "Services",
+            "slug_en": "services",
+            "slug_fr": "services",
+            "content_en": "<h1>Our Services<\/h1><p>We offer a range of professional services to meet your needs.<\/p><div class='row'><div class='col-md-4'><div class='card'><div class='card-body'><h3>Web Development<\/h3><p>Custom websites and web applications built with modern technologies.<\/p><\/div><\/div><\/div><div class='col-md-4'><div class='card'><div class='card-body'><h3>Content Management<\/h3><p>Easy-to-use CMS solutions for managing your digital content.<\/p><\/div><\/div><\/div><div class='col-md-4'><div class='card'><div class='card-body'><h3>Digital Marketing<\/h3><p>Strategies to improve your online presence and reach more customers.<\/p><\/div><\/div><\/div><\/div>",
+            "content_fr": "<h1>Nos Services<\/h1><p>Nous offrons une gamme de services professionnels pour r\u00e9pondre \u00e0 vos besoins.<\/p><div class='row'><div class='col-md-4'><div class='card'><div class='card-body'><h3>D\u00e9veloppement Web<\/h3><p>Sites web et applications web personnalis\u00e9s construits avec des technologies modernes.<\/p><\/div><\/div><\/div><div class='col-md-4'><div class='card'><div class='card-body'><h3>Gestion de contenu<\/h3><p>Solutions CMS faciles \u00e0 utiliser pour g\u00e9rer votre contenu num\u00e9rique.<\/p><\/div><\/div><\/div><div class='col-md-4'><div class='card'><div class='card-body'><h3>Marketing num\u00e9rique<\/h3><p>Strat\u00e9gies pour am\u00e9liorer votre pr\u00e9sence en ligne et atteindre plus de clients.<\/p><\/div><\/div><\/div><\/div>",
+            "featured_image": "",
+            "status": "published",
+            "created_at": "2023-01-18T10:00:00Z",
+            "updated_at": "2023-04-05T15:30:00Z",
+            "published_at": "2023-01-20T08:00:00Z",
+            "template": "default"
+        }
+    ]
+}

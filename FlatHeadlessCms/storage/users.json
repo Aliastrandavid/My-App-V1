@@ -1,0 +1,57 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "admin",
+            "name": "Admin User",
+            "email": "admin@example.com",
+            "password": "$2y$10$C9KJlQhELZbGUYw4L7vdF.vhS.c3LhFZv7zgsgyoG0sOr.oHF3P1i",
+            "first_name": "Admin",
+            "last_name": "User",
+            "role": "admin",
+            "status": "active",
+            "date_created": "2023-01-01T00:00:00Z",
+            "updated_at": "2023-01-01T00:00:00Z",
+            "last_login": null
+        },
+        {
+            "id": 2,
+            "username": "editor",
+            "name": "Editor User",
+            "email": "editor@example.com",
+            "password": "$2y$10$C9KJlQhELZbGUYw4L7vdF.vhS.c3LhFZv7zgsgyoG0sOr.oHF3P1i",
+            "first_name": "Editor",
+            "last_name": "User",
+            "role": "editor",
+            "status": "active",
+            "date_created": "2023-01-02T00:00:00Z",
+            "updated_at": "2023-01-02T00:00:00Z",
+            "last_login": null
+        },
+        {
+            "id": 3,
+            "username": "author",
+            "name": "Author User",
+            "email": "author@example.com",
+            "password": "$2y$10$C9KJlQhELZbGUYw4L7vdF.vhS.c3LhFZv7zgsgyoG0sOr.oHF3P1i",
+            "first_name": "Author",
+            "last_name": "User",
+            "role": "author",
+            "status": "active",
+            "date_created": "2023-01-03T00:00:00Z",
+            "updated_at": "2023-01-03T00:00:00Z",
+            "last_login": null
+        },
+        {
+            "username": "admin2",
+            "name": "admin2",
+            "email": "admin2@admin2.com",
+            "role": "contributor",
+            "password": "$2y$10$Eq6aWZK3BdiYzUmy\/y\/23ufAfEIKFlIHCN4h0kpQROitGxmKj4ztq",
+            "id": "681bf4a8c29f47bc44215",
+            "date_created": "2025-05-08 00:02:48",
+            "created_at": "2025-05-08T00:02:48Z",
+            "updated_at": "2025-05-08T00:02:48Z"
+        }
+    ]
+}

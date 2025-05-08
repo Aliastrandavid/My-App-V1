@@ -1,0 +1,81 @@
+{
+    "blog": {
+        "name": "Blog Posts",
+        "description": "Regular blog entries",
+        "slug": "blog",
+        "supports": ["title", "content", "excerpt", "featured_image", "date", "author", "status"],
+        "taxonomies": ["category", "tag"],
+        "custom_fields": [
+            {
+                "name": "subtitle",
+                "type": "text",
+                "label": "Subtitle",
+                "description": "A secondary title for the post",
+                "required": false,
+                "multilingual": true
+            },
+            {
+                "name": "gallery",
+                "type": "gallery",
+                "label": "Image Gallery",
+                "description": "Images related to the post",
+                "required": false,
+                "multilingual": false
+            }
+        ],
+        "icon": "bi-file-text"
+    },
+    "page": {
+        "name": "Pages",
+        "description": "Static pages for your website",
+        "slug": "page",
+        "supports": ["title", "content", "featured_image", "status"],
+        "taxonomies": [],
+        "custom_fields": [
+            {
+                "name": "template",
+                "type": "select",
+                "label": "Template",
+                "description": "Select a template for this page",
+                "required": false,
+                "multilingual": false,
+                "options": ["default", "full-width", "sidebar-left", "sidebar-right"]
+            }
+        ],
+        "icon": "bi-file-earmark"
+    },
+    "product": {
+        "name": "Products",
+        "description": "Products for an online store",
+        "slug": "product",
+        "supports": ["title", "content", "excerpt", "featured_image", "status"],
+        "taxonomies": ["product_category", "product_tag"],
+        "custom_fields": [
+            {
+                "name": "price",
+                "type": "number",
+                "label": "Price",
+                "description": "Product price",
+                "required": true,
+                "multilingual": false
+            },
+            {
+                "name": "sku",
+                "type": "text",
+                "label": "SKU",
+                "description": "Stock Keeping Unit",
+                "required": true,
+                "multilingual": false
+            },
+            {
+                "name": "product_gallery",
+                "type": "gallery",
+                "label": "Product Gallery",
+                "description": "Additional product images",
+                "required": false,
+                "multilingual": false
+            }
+        ],
+        "icon": "bi-bag"
+    }
+}

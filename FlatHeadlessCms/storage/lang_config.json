@@ -1,0 +1,7 @@
+{
+    "default": "en",
+    "languages": ["en", "fr", "es", "de"],
+    "active_languages": ["en", "fr"],
+    "language_in_url": true,
+    "hide_default_language": false
+}
