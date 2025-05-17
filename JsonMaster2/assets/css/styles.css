@@ -1,0 +1,173 @@
+/* Custom styles for Property Management System */
+
+/* Dark mode styles */
+[data-theme="dark"] {
+    --bg-color: #1a1a1a;
+    --text-color: #e4e4e4;
+    --card-bg: #2d2d2d;
+    --border-color: #404040;
+    --primary-bg: #0d6efd;
+}
+
+/* Light mode styles */
+[data-theme="light"] {
+    --bg-color: #f8f9fa;
+    --text-color: #212529;
+    --card-bg: #ffffff;
+    --border-color: #dee2e6;
+    --primary-bg: #0d6efd;
+}
+
+/* General styles */
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+.card, .property-card {
+    background-color: var(--card-bg);
+    border-color: var(--border-color);
+    color: var(--text-color);
+}
+
+.navbar-dark {
+    background-color: var(--primary-bg) !important;
+}
+
+pre {
+    background-color: var(--card-bg);
+    border-color: var(--border-color);
+    color: var(--text-color);
+}
+
+.property-card {
+    transition: transform 0.2s;
+    margin-bottom: 20px;
+}
+
+.property-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+/* Property thumbnails */
+.property-image-container {
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+}
+
+.property-thumbnail {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.property-list-thumbnail {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+}
+
+.no-image-placeholder {
+    width: 100%;
+    height: 120px;
+    background-color: #f1f1f1;
+    border-radius: 4px;
+}
+
+/* Property gallery */
+.property-gallery {
+    margin-bottom: 2rem;
+}
+
+.gallery-thumbnail {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: transform 0.2s;
+}
+
+.gallery-thumbnail:hover {
+    transform: scale(1.05);
+}
+
+.modal-image {
+    width: 100%;
+}
+
+/* Property details */
+.property-details-section {
+    margin-bottom: 2rem;
+}
+
+.property-key {
+    font-weight: bold;
+}
+
+/* Contact image */
+.contact-image {
+    width: 100%;
+    max-width: 150px;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+}
+
+/* Form styles */
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+.form-label {
+    font-weight: 500;
+}
+
+/* JSON preview */
+pre {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid #dee2e6;
+    white-space: pre-wrap;
+}
+
+/* Loading spinner */
+.spinner-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.3s;
+}
+
+.spinner-overlay.show {
+    visibility: visible;
+    opacity: 1;
+}
+
+/* Helper classes */
+.text-truncate-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/* Error messages */
+.error-container {
+    padding: 20px;
+    background-color: #f8d7da;
+    border: 1px solid #f5c6cb;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
