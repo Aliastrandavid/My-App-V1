@@ -1,0 +1,89 @@
+
+{
+    "blog": {
+        "name_en": "Blog Posts",
+        "name_fr": "Articles de Blog",
+        "description_en": "Blog posts and articles",
+        "description_fr": "Articles et publications de blog",
+        "slug_en": "blog",
+        "slug_fr": "articles",
+        "hierarchical": false,
+        "has_archive": true,
+        "supports": ["title", "content", "excerpt", "thumbnail", "custom-fields"],
+        "taxonomies": ["category", "tag"],
+        "custom_fields": [
+            {
+                "name": "subtitle",
+                "type": "text",
+                "label": "Subtitle",
+                "description": "A secondary title for the post",
+                "required": false,
+                "multilingual": true
+            },
+            {
+                "name": "gallery",
+                "type": "gallery",
+                "label": "Image Gallery",
+                "description": "Images related to the post",
+                "required": false,
+                "multilingual": false
+            }
+        ],
+        "icon": "bi-file-text"
+    },
+    "page": {
+        "name_en": "Pages",
+        "name_fr": "Pages",
+        "description_en": "Static pages for your website",
+        "description_fr": "Pages statiques pour votre site web",
+        "slug_en": "page",
+        "slug_fr": "page",
+        "hierarchical": true,
+        "has_archive": false,
+        "supports": ["title", "content", "excerpt", "thumbnail", "custom-fields"],
+        "taxonomies": ["pages_cat"],
+        "custom_fields": [
+            {
+                "name": "template",
+                "type": "select",
+                "label": "Template",
+                "description": "Select a template for this page",
+                "required": false,
+                "multilingual": false,
+                "options": ["default", "full-width", "sidebar-left", "sidebar-right"]
+            }
+        ],
+        "icon": "bi-file-earmark"
+    },
+    "product": {
+        "name_en": "Products",
+        "name_fr": "Produits",
+        "description_en": "Products for an online store",
+        "description_fr": "Produits pour la boutique en ligne",
+        "slug_en": "product",
+        "slug_fr": "produit",
+        "hierarchical": false,
+        "has_archive": true,
+        "supports": ["title", "content", "excerpt", "thumbnail", "custom-fields"],
+        "taxonomies": ["product_category", "product_tag"],
+        "custom_fields": [
+            {
+                "name": "price",
+                "type": "number",
+                "label": "Price",
+                "description": "Product price",
+                "required": true,
+                "multilingual": false
+            },
+            {
+                "name": "sku",
+                "type": "text",
+                "label": "SKU",
+                "description": "Stock Keeping Unit",
+                "required": true,
+                "multilingual": false
+            }
+        ],
+        "icon": "bi-bag"
+    }
+}

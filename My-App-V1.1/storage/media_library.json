@@ -1,0 +1,46 @@
+[
+    {
+        "id": "681beeab538375921d3cf",
+        "name": "IMG_3500",
+        "filename": "681beeab53196.jpeg",
+        "url": "/uploads/681beeab53196.jpeg",
+        "alt": "test",
+        "description": "desc test",
+        "type": "jpeg",
+        "size": 1723548,
+        "date": "2025-05-07 23:37:15"
+    },
+    {
+        "id": "681c002cbc617xyz123",
+        "name": "Sample PNG Image",
+        "filename": "681c002cbc617.png",
+        "url": "/uploads/681c002cbc617.png",
+        "alt": "Sample PNG",
+        "description": "A sample PNG image",
+        "type": "png",
+        "size": 245876,
+        "date": "2025-05-08 00:10:25"
+    },
+    {
+        "id": "681c0129284a4abc456",
+        "name": "Sample WebP Image",
+        "filename": "681c0129284a4.webp",
+        "url": "/uploads/681c0129284a4.webp",
+        "alt": "Sample WebP", 
+        "description": "A sample WebP image",
+        "type": "webp",
+        "size": 189652,
+        "date": "2025-05-08 00:15:37"
+    },
+    {
+        "id": "681c023aec45adef789",
+        "name": "Sample JPG Image",
+        "filename": "681c023aec45a.jpg",
+        "url": "/uploads/681c023aec45a.jpg",
+        "alt": "Sample JPG",
+        "description": "A sample JPG image", 
+        "type": "jpg",
+        "size": 354215,
+        "date": "2025-05-08 00:20:12"
+    }
+]

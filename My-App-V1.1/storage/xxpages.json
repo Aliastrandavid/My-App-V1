@@ -1,0 +1,24 @@
+
+{
+    "posts": [
+        {
+            "id": "page-1",
+            "date": "2025-05-08",
+            "status": "published",
+            "featured_image": "681c002cbc617xyz123",
+            "title_en": "Services",
+            "content_en": "<h1>Our Services<\/h1><p>We offer a range of professional services to meet your needs.<\/p><div class='row'><div class='col-md-4'><div class='card'><div class='card-body'><h3>Web Development<\/h3><p>Custom websites and web applications built with modern technologies.<\/p><\/div><\/div><\/div><div class='col-md-4'><div class='card'><div class='card-body'><h3>Content Management<\/h3><p>Easy-to-use CMS solutions for managing your digital content.<\/p><\/div><\/div><\/div><div class='col-md-4'><div class='card'><div class='card-body'><h3>Digital Marketing<\/h3><p>Strategies to improve your online presence and reach more customers.<\/p><\/div><\/div><\/div><\/div>",
+            "meta_title_en": "",
+            "meta_description_en": "",
+            "slug_en": "services",
+            "title_fr": "Services",
+            "content_fr": "<h1>Nos Services<\/h1><p>Nous offrons une gamme de services professionnels pour r\u00e9pondre \u00e0 vos besoins.<\/p><div class='row'><div class='col-md-4'><div class='card'><div class='card-body'><h3>D\u00e9veloppement Web<\/h3><p>Sites web et applications web personnalis\u00e9s construits avec des technologies modernes.<\/p><\/div><\/div><\/div><div class='col-md-4'><div class='card'><div class='card-body'><h3>Gestion de contenu<\/h3><p>Solutions CMS faciles \u00e0 utiliser pour g\u00e9rer votre contenu num\u00e9rique.<\/p><\/div><\/div><\/div><div class='col-md-4'><div class='card'><div class='card-body'><h3>Marketing num\u00e9rique<\/h3><p>Strat\u00e9gies pour am\u00e9liorer votre pr\u00e9sence en ligne et atteindre plus de clients.<\/p><\/div><\/div><\/div><\/div>",
+            "meta_title_fr": "",
+            "meta_description_fr": "",
+            "slug_fr": "services",
+            "tax_pages_cat": [
+                "1"
+            ]
+        }
+    ]
+}

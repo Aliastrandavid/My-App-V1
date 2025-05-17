@@ -1,0 +1,65 @@
+{
+    "category": {
+        "name": "Categories",
+        "name_en": "Categories",
+        "name_fr": "Catégories",
+        "description_en": "Organize content into categories",
+        "description_fr": "Organisez le contenu en catégories",
+        "hierarchical": true,
+        "multiple": false,
+        "post_types": [
+            "blog"
+        ]
+    },
+    "tag": {
+        "name": "Tags",
+        "name_en": "Tags",
+        "name_fr": "Étiquettes",
+        "description_en": "Tag content with keywords",
+        "description_fr": "Étiquetez le contenu avec des mots-clés",
+        "hierarchical": false,
+        "multiple": true,
+        "post_types": [
+            "blog"
+        ]
+    },
+    "product_category": {
+        "name": "Product Categories",
+        "name_en": "Product Categories",
+        "name_fr": "Catégories de produits",
+        "description": "Organize products into categories",
+        "slug_en": "product-categories",
+        "slug_fr": "categories-produits",
+        "hierarchical": true,
+        "multiple": false,
+        "post_types": [
+            "product"
+        ]
+    },
+    "product_tag": {
+        "name": "Product Tags",
+        "name_en": "Product Tags",
+        "name_fr": "Étiquettes de produits",
+        "description": "Tag products with keywords",
+        "slug_en": "product-tags",
+        "slug_fr": "tags-produits",
+        "hierarchical": false,
+        "multiple": true,
+        "post_types": [
+            "product"
+        ]
+    },
+    "pages_cat": {
+        "name": "Pages Cat",
+        "name_en": "Pages Cat",
+        "name_fr": "Cat Pages",
+        "description": "",
+        "slug_en": "pages-cat",
+        "slug_fr": "cat-pages",
+        "hierarchical": true,
+        "multiple": true,
+        "post_types": [
+            "page"
+        ]
+    }
+}

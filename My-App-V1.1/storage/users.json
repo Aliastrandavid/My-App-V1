@@ -1,0 +1,70 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "admin",
+            "name": "Admin User",
+            "email": "admin@example.com",
+            "password": "$2y$10$C9KJlQhELZbGUYw4L7vdF.vhS.c3LhFZv7zgsgyoG0sOr.oHF3P1i",
+            "role": "admin",
+            "status": "active",
+            "created_at": "2023-01-01T00:00:00",
+            "updated_at": "2023-01-01T00:00:00Z"
+        },
+        {
+            "id": "2",
+            "username": "admin2",
+            "name": "admin2",
+            "email": "admin2@admin2.com",
+            "role": "editor",
+            "status": "active",
+            "password": "$2y$10$jHDA5mgsHAlzqAiquNWbyONWQPH8NvQQUK.9d7hqBBR0AwkX2M3Le",
+            "date_created": "2025-05-09 14:59:20",
+            "created_at": "2025-05-09T14:59:20Z",
+            "updated_at": "2025-05-09T15:50:53Z"
+        },
+        {
+            "id": "3",
+            "username": "admin3",
+            "name": "admin3",
+            "email": "admin3@admin3.com",
+            "role": "contributor",
+            "status": "active",
+            "password": "$2y$10$xJ\/TASI.P5LvD3PHvde6B.mnsbphbyO24wDNbkkNA69IlrZEHomFa",
+            "date_created": "2025-05-09 15:11:38",
+            "created_at": "2025-05-09T15:11:38Z",
+            "updated_at": "2025-05-09T15:13:43Z"
+        },
+        {
+            "id": "4",
+            "username": "admin1",
+            "name": "admin111111",
+            "email": "david@gemea.com",
+            "role": "admin",
+            "password": "$2y$10$E0GbuLRv5WCsdfV0bLAbies9jXz\/NfFhsK7isQI7SXewwyoT5iOXm",
+            "date_created": "2025-05-09 15:19:20",
+            "created_at": "2025-05-09T15:19:20Z",
+            "updated_at": "2025-05-15T13:29:49Z"
+        },
+        {
+            "username": "contributor",
+            "name": "contributor",
+            "email": "contributor@contributor.com",
+            "role": "contributor",
+            "password": "$2y$10$e3rXtH72\/yQ5RdOtcAF7B.IK\/5rUucZdraQMaorbi0s5951JCipeO",
+            "id": "681e243ece95d2e2b5839",
+            "created_at": "2025-05-09T15:50:22Z",
+            "updated_at": "2025-05-15T14:58:15Z"
+        },
+        {
+            "username": "yy",
+            "name": "yy",
+            "email": "t@y.u",
+            "role": "contributor",
+            "password": "$2y$10$O\/KM0OCdxxS8yOfcN.sdqezmcd5GCv8HP8uZ1Fu0xwiSxfitQ93xS",
+            "id": "6825ecfae84a588a624ad",
+            "created_at": "2025-05-15T13:32:43Z",
+            "updated_at": "2025-05-15T13:32:43Z"
+        }
+    ]
+}

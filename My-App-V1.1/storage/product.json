@@ -1,0 +1,48 @@
+{
+    "posts": [
+        {
+            "id": "1",
+            "date": "2025-05-08",
+            "status": "published",
+            "featured_image": "681c023aec45adef789",
+            "title_en": "Produit 01xx",
+            "content_en": "Nunc vero inanes flatus\r\nquorundam vile esse quicquid extra urbis pomerium nascitur aestimant praeter orbos et caelibes, nec credi potest qua obsequiorum diversitate coluntur homines sine liberis Romae.\r\n\r\nIn his tractibus navigerum nusquam visitur flumen sed in locis plurimis aquae suapte natura calentes emergunt ad usus aptae multiplicium medelarum. verum has quoque regiones pari sorte Pompeius Iudaeis domitis et Hierosolymis captis in provinciae speciem delata iuris dictione formavit.\r\n\r\nEt hanc quidem praeter oppida multa duae civitates exornant Seleucia opus Seleuci regis, et Claudiopolis quam deduxit coloniam Claudius Caesar. Isaura enim antehac nimium potens, olim subversa ut rebellatrix interneciva aegre vestigia claritudinis pristinae monstrat admodum pauca.",
+            "meta_title_en": "SEO: Produit 01",
+            "meta_description_en": "SEO: quorundam vile esse quicquid extra urbis pomerium nascitur aestimant praeter orbos et caelibes, nec credi potest qua obsequiorum diversitate coluntur homines sine liberis Romae.",
+            "slug_en": "produit-01",
+            "title_fr": "Product 01",
+            "content_fr": "Nunc vero inanes flatus quorundam vile esse quicquid extra urbis pomerium nascitur aestimant praeter orbos et caelibes, nec credi potest qua obsequiorum diversitate coluntur homines sine liberis Romae.\r\n\r\nIn his tractibus navigerum nusquam visitur flumen sed in locis plurimis aquae suapte natura calentes emergunt ad usus aptae multiplicium medelarum. verum has quoque regiones pari sorte Pompeius Iudaeis domitis et Hierosolymis captis in provinciae speciem delata iuris dictione formavit.\r\n\r\nEt hanc quidem praeter oppida multa duae civitates exornant Seleucia opus Seleuci regis, et Claudiopolis quam deduxit coloniam Claudius Caesar. Isaura enim antehac nimium potens, olim subversa ut rebellatrix interneciva aegre vestigia claritudinis pristinae monstrat admodum pauca.",
+            "meta_title_fr": "Product 01 SEO",
+            "meta_description_fr": "SEP: Nunc vero inanes flatus quorundam vile esse quicquid extra urbis pomerium nascitur aestimant praeter orbos et caelibes, nec credi potest qua obsequiorum diversitate coluntur homines sine liberis Romae.",
+            "slug_fr": "product-01",
+            "tax_product_category": [
+                ""
+            ],
+            "tax_product_tag": [
+                "1"
+            ]
+        },
+        {
+            "id": "681e3ac679a37f980fe5c",
+            "date": "2025-05-09",
+            "status": "draft",
+            "featured_image": "",
+            "title_en": "Produit 02",
+            "content_en": "",
+            "meta_title_en": "",
+            "meta_description_en": "",
+            "slug_en": "produit-02",
+            "title_fr": "",
+            "content_fr": "",
+            "meta_title_fr": "",
+            "meta_description_fr": "",
+            "slug_fr": "post-680fd6",
+            "tax_product_category": [
+                "1"
+            ],
+            "tax_product_tag": [
+                "1"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,392 @@
+{
+    "posts": [
+        {
+            "id": "1",
+            "date": "2025-05-08",
+            "status": "published",
+            "featured_image": "681beeab538375921d3cf",
+            "title_en": "Getting Started with Flat CMS   AAAAAA",
+            "content_en": "<h1>Getting Started with Flat CMS<\/h1><p>Welcome to our flat-file CMS! This system allows you to manage content without a traditional database. All data is stored in JSON files, making it lightweight and easy to deploy.<\/p><p>This post will guide you through the basic features and how to make the most of our system.<\/p><h2>Key Features<\/h2><ul><li>No database required<\/li><li>Multilingual content<\/li><li>Custom post types<\/li><li>Taxonomies for organization<\/li><li>User management<\/li><\/ul>",
+            "meta_title_en": "",
+            "meta_description_en": "",
+            "slug_en": "getting-started-with-flat-cms",
+            "title_fr": "Demarrer avec Flat CMS",
+            "content_fr": "<h1>D\u00e9marrer avec Flat CMS<\/h1><p>Bienvenue dans notre CMS \u00e0 fichiers plats ! Ce syst\u00e8me vous permet de g\u00e9rer du contenu sans base de donn\u00e9es traditionnelle. Toutes les donn\u00e9es sont stock\u00e9es dans des fichiers JSON, ce qui le rend l\u00e9ger et facile \u00e0 d\u00e9ployer.<\/p><p>Cet article vous guidera \u00e0 travers les fonctionnalit\u00e9s de base et comment tirer le meilleur parti de notre syst\u00e8me.<\/p><h2>Fonctionnalit\u00e9s cl\u00e9s<\/h2><ul><li>Pas de base de donn\u00e9es requise<\/li><li>Contenu multilingue<\/li><li>Types de publication personnalis\u00e9s<\/li><li>Taxonomies pour l'organisation<\/li><li>Gestion des utilisateurs<\/li><\/ul>",
+            "meta_title_fr": "",
+            "meta_description_fr": "",
+            "slug_fr": "demarrer-avec-flat-cms",
+            "tax_category": [
+                "1"
+            ],
+            "tax_tag": [
+                "1",
+                "3"
+            ]
+        },
+        {
+            "id": "2",
+            "date": "2025-05-08",
+            "status": "published",
+            "featured_image": "681c002cbc617xyz123",
+            "title_en": "Working with Multilingual Content",
+            "content_en": "<h1>Working with Multilingual Content<\/h1><p>One of the most powerful features of our CMS is multilingual support. This allows you to create content in multiple languages and serve it to users based on their preferences.<\/p><p>In this post, we'll explore how to create, edit, and manage multilingual content effectively.<\/p><h2>Setting Up Languages<\/h2><p>The system supports as many languages as you need. Each language is identified by its ISO code (e.g., 'en' for English, 'fr' for French).<\/p>",
+            "meta_title_en": "",
+            "meta_description_en": "",
+            "slug_en": "working-with-multilingual-content",
+            "title_fr": "Travailler avec du contenu multilingue",
+            "content_fr": "<h1>Travailler avec du contenu multilingue<\/h1><p>L'une des fonctionnalit\u00e9s les plus puissantes de notre CMS est le support multilingue. Cela vous permet de cr\u00e9er du contenu dans plusieurs langues et de le servir aux utilisateurs en fonction de leurs pr\u00e9f\u00e9rences.<\/p><p>Dans cet article, nous explorerons comment cr\u00e9er, \u00e9diter et g\u00e9rer efficacement du contenu multilingue.<\/p><h2>Configuration des langues<\/h2><p>Le syst\u00e8me prend en charge autant de langues que n\u00e9cessaire. Chaque langue est identifi\u00e9e par son code ISO (par exemple, 'en' pour l'anglais, 'fr' pour le fran\u00e7ais).<\/p>",
+            "meta_title_fr": "",
+            "meta_description_fr": "",
+            "slug_fr": "travailler-avec-du-contenu-multilingue",
+            "tax_category": [
+                "2"
+            ],
+            "tax_tag": [
+                "2",
+                "3"
+            ]
+        },
+        {
+            "id": "3",
+            "date": "2025-05-09",
+            "status": "draft",
+            "featured_image": "",
+            "title_en": "test en 3",
+            "content_en": "Nunc vero inanes flatus quorundam vile esse quicquid extra urbis pomerium nascitur aestimant praeter orbos et caelibes, nec credi potest qua obsequiorum diversitate coluntur homines sine liberis Romae.\r\n\r\nIn his tractibus navigerum nusquam visitur flumen sed in locis plurimis aquae suapte natura calentes emergunt ad usus aptae multiplicium medelarum. verum has quoque regiones pari sorte Pompeius Iudaeis domitis et Hierosolymis captis in provinciae speciem delata iuris dictione formavit.\r\n\r\nEt hanc quidem praeter oppida multa duae civitates exornant Seleucia opus Seleuci regis, et Claudiopolis quam deduxit coloniam Claudius Caesar. Isaura enim antehac nimium potens, olim subversa ut rebellatrix interneciva aegre vestigia claritudinis pristinae monstrat admodum pauca.",
+            "meta_title_en": "",
+            "meta_description_en": "",
+            "slug_en": "test-en-3",
+            "title_fr": "title FR",
+            "content_fr": "Nunc vero inanes flatus quorundam vile esse quicquid extra urbis pomerium nascitur aestimant praeter orbos et caelibes, nec credi potest qua obsequiorum diversitate coluntur homines sine liberis Romae.\r\n\r\nIn his tractibus navigerum nusquam visitur flumen sed in locis plurimis aquae suapte natura calentes emergunt ad usus aptae multiplicium medelarum. verum has quoque regiones pari sorte Pompeius Iudaeis domitis et Hierosolymis captis in provinciae speciem delata iuris dictione formavit.\r\n\r\nEt hanc quidem praeter oppida multa duae civitates exornant Seleucia opus Seleuci regis, et Claudiopolis quam deduxit coloniam Claudius Caesar. Isaura enim antehac nimium potens, olim subversa ut rebellatrix interneciva aegre vestigia claritudinis pristinae monstrat admodum pauca.",
+            "meta_title_fr": "",
+            "meta_description_fr": "",
+            "slug_fr": "post-b219ef",
+            "tax_category": [
+                ""
+            ],
+            "tax_tag": [
+                "1"
+            ]
+        },
+        {
+            "id": "681e357e876f34e789d5a",
+            "date": "2025-05-09",
+            "status": "published",
+            "featured_image": "",
+            "title_en": "sdgbrgqe ",
+            "content_en": "",
+            "meta_title_en": "",
+            "meta_description_en": "",
+            "slug_en": "dssgdsfsdf",
+            "title_fr": "",
+            "content_fr": "",
+            "meta_title_fr": "",
+            "meta_description_fr": "",
+            "slug_fr": "post-977e74",
+            "tax_category": [
+                "1"
+            ],
+            "tax_tag": []
+        },
+        {
+            "id": "681e3a16ba14bbf5b7d37",
+            "date": "2025-05-09",
+            "status": "draft",
+            "featured_image": "",
+            "title_en": "qdqDQD",
+            "content_en": "",
+            "meta_title_en": "",
+            "meta_description_en": "",
+            "slug_en": "cqsddq",
+            "title_fr": "",
+            "content_fr": "",
+            "meta_title_fr": "",
+            "meta_description_fr": "",
+            "slug_fr": "post-9ff99b",
+            "tax_category": [
+                "1"
+            ],
+            "tax_tag": []
+        },
+        {
+            "id": "6821c7b850ba303757717",
+            "date": "2025-05-12",
+            "status": "draft",
+            "featured_image": "",
+            "title_en": "a",
+            "content_en": "a",
+            "meta_title_en": "",
+            "meta_description_en": "",
+            "slug_en": "a",
+            "title_fr": "",
+            "content_fr": "",
+            "meta_title_fr": "",
+            "meta_description_fr": "",
+            "slug_fr": "post-ef1af0",
+            "tax_category": [
+                ""
+            ],
+            "tax_tag": []
+        },
+        {
+            "id": "6821c7c45ca51aaee5804",
+            "date": "2025-05-12",
+            "status": "draft",
+            "featured_image": "",
+            "title_en": "aa",
+            "content_en": "",
+            "meta_title_en": "",
+            "meta_description_en": "",
+            "slug_en": "aa",
+            "title_fr": "",
+            "content_fr": "",
+            "meta_title_fr": "",
+            "meta_description_fr": "",
+            "slug_fr": "post-6aac20",
+            "tax_category": [
+                ""
+            ],
+            "tax_tag": []
+        },
+        {
+            "id": "6821c7c9950a0e46e840c",
+            "date": "2025-05-12",
+            "status": "draft",
+            "featured_image": "",
+            "title_en": "aaa",
+            "content_en": "",
+            "meta_title_en": "",
+            "meta_description_en": "",
+            "slug_en": "aaa",
+            "title_fr": "",
+            "content_fr": "",
+            "meta_title_fr": "",
+            "meta_description_fr": "",
+            "slug_fr": "post-e72ba5",
+            "tax_category": [
+                ""
+            ],
+            "tax_tag": []
+        },
+        {
+            "id": "6821c7d3e0c20a5fd00d5",
+            "date": "2025-05-12",
+            "status": "draft",
+            "featured_image": "",
+            "title_en": "aaaa",
+            "content_en": "aaaa",
+            "meta_title_en": "",
+            "meta_description_en": "",
+            "slug_en": "aaaa",
+            "title_fr": "",
+            "content_fr": "",
+            "meta_title_fr": "",
+            "meta_description_fr": "",
+            "slug_fr": "post-4a7221",
+            "tax_category": [
+                ""
+            ],
+            "tax_tag": []
+        },
+        {
+            "id": "6821c7e00cb1e8b3a07af",
+            "date": "2025-05-12",
+            "status": "draft",
+            "featured_image": "",
+            "title_en": "zzzz",
+            "content_en": "",
+            "meta_title_en": "",
+            "meta_description_en": "",
+            "slug_en": "zzzzzz",
+            "title_fr": "",
+            "content_fr": "",
+            "meta_title_fr": "",
+            "meta_description_fr": "",
+            "slug_fr": "post-09914c",
+            "tax_category": [
+                ""
+            ],
+            "tax_tag": []
+        },
+        {
+            "id": "6821c7e50fcc3dc9a5004",
+            "date": "2025-05-12",
+            "status": "draft",
+            "featured_image": "",
+            "title_en": "qqqq",
+            "content_en": "",
+            "meta_title_en": "",
+            "meta_description_en": "",
+            "slug_en": "qqqqq",
+            "title_fr": "",
+            "content_fr": "",
+            "meta_title_fr": "",
+            "meta_description_fr": "",
+            "slug_fr": "post-b4e039",
+            "tax_category": [
+                ""
+            ],
+            "tax_tag": []
+        },
+        {
+            "id": "6821c7ec876a24058bc79",
+            "date": "2025-05-12",
+            "status": "draft",
+            "featured_image": "",
+            "title_en": "errerff",
+            "content_en": "",
+            "meta_title_en": "",
+            "meta_description_en": "",
+            "slug_en": "feefeeef",
+            "title_fr": "",
+            "content_fr": "",
+            "meta_title_fr": "",
+            "meta_description_fr": "",
+            "slug_fr": "post-e75c13",
+            "tax_category": [
+                ""
+            ],
+            "tax_tag": []
+        },
+        {
+            "id": "6821c7fbac8371763faa8",
+            "date": "2025-05-12",
+            "status": "published",
+            "featured_image": "",
+            "title_en": "rrrrrrrr",
+            "content_en": "rrrrr",
+            "meta_title_en": "",
+            "meta_description_en": "",
+            "slug_en": "rrrrrrrrr",
+            "title_fr": "",
+            "content_fr": "",
+            "meta_title_fr": "",
+            "meta_description_fr": "",
+            "slug_fr": "post-4074b0",
+            "tax_category": [
+                ""
+            ],
+            "tax_tag": []
+        },
+        {
+            "id": "6821c8002bbc2ad8679c4",
+            "date": "2025-05-12",
+            "status": "draft",
+            "featured_image": "",
+            "title_en": "1",
+            "content_en": "1",
+            "meta_title_en": "",
+            "meta_description_en": "",
+            "slug_en": "1",
+            "title_fr": "",
+            "content_fr": "",
+            "meta_title_fr": "",
+            "meta_description_fr": "",
+            "slug_fr": "post-ac5617",
+            "tax_category": [
+                ""
+            ],
+            "tax_tag": []
+        },
+        {
+            "id": "6821c806cffd9a75c1601",
+            "date": "2025-05-12",
+            "status": "draft",
+            "featured_image": "",
+            "title_en": "2",
+            "content_en": "2",
+            "meta_title_en": "",
+            "meta_description_en": "",
+            "slug_en": "2",
+            "title_fr": "",
+            "content_fr": "",
+            "meta_title_fr": "",
+            "meta_description_fr": "",
+            "slug_fr": "post-78c164",
+            "tax_category": [
+                ""
+            ],
+            "tax_tag": []
+        },
+        {
+            "id": "6821c8116fdc3ac407f79",
+            "date": "2025-05-12",
+            "status": "draft",
+            "featured_image": "",
+            "title_en": "4",
+            "content_en": "4",
+            "meta_title_en": "",
+            "meta_description_en": "",
+            "slug_en": "4",
+            "title_fr": "",
+            "content_fr": "",
+            "meta_title_fr": "",
+            "meta_description_fr": "",
+            "slug_fr": "post-960724",
+            "tax_category": [
+                ""
+            ],
+            "tax_tag": []
+        },
+        {
+            "id": "6821c820a549133dd8647",
+            "date": "2025-05-12",
+            "status": "draft",
+            "featured_image": "",
+            "title_en": "eee",
+            "content_en": "dedede",
+            "meta_title_en": "",
+            "meta_description_en": "",
+            "slug_en": "dede",
+            "title_fr": "",
+            "content_fr": "",
+            "meta_title_fr": "",
+            "meta_description_fr": "",
+            "slug_fr": "post-d73460",
+            "tax_category": [
+                ""
+            ],
+            "tax_tag": []
+        },
+        {
+            "id": "68230bc7c667a69349fc0",
+            "date": "2025-05-13",
+            "status": "published",
+            "featured_image": "",
+            "title_en": "7",
+            "content_en": "7",
+            "meta_title_en": "",
+            "meta_description_en": "",
+            "slug_en": "7",
+            "title_fr": "",
+            "content_fr": "",
+            "meta_title_fr": "",
+            "meta_description_fr": "",
+            "slug_fr": "post-81693a",
+            "tax_category": [
+                ""
+            ],
+            "tax_tag": []
+        },
+        {
+            "id": "68230bd7e24a7f00ddbe4",
+            "date": "2025-05-13",
+            "status": "draft",
+            "featured_image": "",
+            "title_en": "11",
+            "content_en": "",
+            "meta_title_en": "",
+            "meta_description_en": "",
+            "slug_en": "11",
+            "title_fr": "",
+            "content_fr": "",
+            "meta_title_fr": "",
+            "meta_description_fr": "",
+            "slug_fr": "post-f62454",
+            "tax_category": [
+                ""
+            ],
+            "tax_tag": []
+        }
+    ]
+}
